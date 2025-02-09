@@ -1,0 +1,66 @@
+ConcurrentHashMap created.
+Inserted order for NESTLEIND with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for HDFCBANK with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for RELIANCE with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for TCS with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for INFY with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for SBIN with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for ICICIBANK with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for LT with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for BAJFINANCE with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for HINDUNILVR with price 2.
+Order with lotSize 10 and price 2 is being destroyed.
+Inserted order for NESTLEIND with price 3.
+Order with lotSize 20 and price 3 is being destroyed.
+Inserted order for HDFCBANK with price 4.
+Order with lotSize 15 and price 4 is being destroyed.
+Initial Map State:
+ICICIBANK: {lotSize: 10, price: 2} 
+LT: {lotSize: 10, price: 2} 
+SBIN: {lotSize: 10, price: 2} 
+INFY: {lotSize: 10, price: 2} 
+HINDUNILVR: {lotSize: 10, price: 2} 
+TCS: {lotSize: 10, price: 2} 
+HDFCBANK: {lotSize: 15, price: 4} {lotSize: 10, price: 2} 
+BAJFINANCE: {lotSize: 10, price: 2} 
+RELIANCE: {lotSize: 10, price: 2} 
+NESTLEIND: {lotSize: 20, price: 3} {lotSize: 10, price: 2} 
+Order with lotSize 20 and price 3 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Removed orders for NESTLEIND.
+
+Map State after Removal:
+ICICIBANK: {lotSize: 10, price: 2} 
+LT: {lotSize: 10, price: 2} 
+SBIN: {lotSize: 10, price: 2} 
+INFY: {lotSize: 10, price: 2} 
+HINDUNILVR: {lotSize: 10, price: 2} 
+TCS: {lotSize: 10, price: 2} 
+HDFCBANK: {lotSize: 15, price: 4} {lotSize: 10, price: 2} 
+BAJFINANCE: {lotSize: 10, price: 2} 
+RELIANCE: {lotSize: 10, price: 2} 
+No orders found for symbol: NONEXISTENT to remove.
+ConcurrentHashMap is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 15 and price 4 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+Order with lotSize 10 and price 2 is being destroyed.
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
